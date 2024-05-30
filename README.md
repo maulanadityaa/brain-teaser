@@ -32,9 +32,9 @@ This is an example of how to list things you need to use the software and how to
    ```
 4. Open the app on localhost
 
-### Screenshots App
+### Demo App
 
-![ss](./image.png)
+![demo](./brain-teaser.gif)
 
 <!-- CONTACT -->
 
@@ -43,4 +43,4 @@ This is an example of how to list things you need to use the software and how to
 M Maulana Z Aditya -
 Instagram - [@maulanadityaa](https://instagram.com/maulanadityaa)
 
-Project Link: [https://github.com/maulanadityaa/todolist-react](https://github.com/maulanadityaa/todolist-react)
+Project Link: [https://github.com/maulanadityaa/brain-teaser](https://github.com/maulanadityaa/brain-teaser)

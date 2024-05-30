@@ -9,9 +9,9 @@
 <body>
     <div class="container d-flex align-items-center p-4" style="min-height: 100vh;">
         <div class="card shadow-sm p-3">
-            <div class="d-flex justify-content-center">
-                <h1 class="mt-5">Brain Teaser</h1>
-                <p class="fw-light fs-4">Guess the word!</p>
+            <div class="text-center">
+                <h1>Brain Teaser</h1>
+                <p class=" fw-light fs-4">Guess the word!</p>
             </div>
             <form action="<?php echo site_url('/game/check_word'); ?>" method="post">
                 <div class="form-group">
